@@ -6,13 +6,13 @@ Scope of the DEI.md File
 
 Our project prioritizes and reflects on DEI through a regular review of project policies and performance. This reflection is documented in the following DEI.md file based on specific [CHAOSS project](https://chaoss.community) DEI metrics.
 
-### [TEMPLATEProject Access](https://chaoss.community/?p=4953)
+### [Project (TEMPLATE) Access](https://chaoss.community/?p=4953)
 
 Project access is addressed in our project through various efforts. Through these efforts, we aim to support access for all. Specific efforts in our project include:
 
 - Specific points on how your project addresses project access.
 
-### [Communication Transparency](https://chaoss.community/?p=4957)
+### [Communication (TEMPLATE) Transparency](https://chaoss.community/?p=4957)
 
 Communication Transparency is addressed in our project through a variety of different efforts. Through these efforts, we aim to support transparency for all. Specific efforts in our project include:
 

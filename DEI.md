@@ -12,7 +12,6 @@ Project access is addressed in our project through various efforts. Through thes
 
 - Specific points on how your project addresses project access.
 
-### [Communication (TEMPLATE) Transparency](https://chaoss.community/?p=4957)
 
 Communication Transparency is addressed in our project through a variety of different efforts. Through these efforts, we aim to support transparency for all. Specific efforts in our project include:
 

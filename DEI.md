@@ -12,19 +12,19 @@ Project access is addressed in our project through various efforts. Through thes
 
 - Specific points on how your project addresses project access.
 
-### [Communication TEMPLATE Transparency](https://chaoss.community/?p=4957)
+### [Communication (*TEMPLATE*) Transparency](https://chaoss.community/?p=4957)
 
 Communication Transparency is addressed in our project through a variety of different efforts. Through these efforts, we aim to support transparency for all. Specific efforts in our project include:
 
 - Specific points on how your project addresses communication transparency.
 
-### [Newcomer (*REMOVE THIS TEXT*) Experiences](https://chaoss.community/?p=4891)
+### [Newcomer (*REMOVE THIS TEXT IN PARATHESES*) Experiences](https://chaoss.community/?p=4891)
 
 The newcomer experience is addressed in our project through a variety of different efforts. Through these efforts, we aim to support the newcomer experience for all new members. Specific efforts in our project include:
 
 - Specific points on how your project addresses the newcomer experience.
 
-### [Inclusive TEMPLATE Leadership](https://chaoss.community/?p=3522)
+### [Inclusive (*REMOVE*) Leadership](https://chaoss.community/?p=3522)
 
 Inclusive leadership is addressed in our project through a variety of different efforts. Through these efforts, we aim to support leadership opportunities for project members with an interest. Specific efforts in our project include:
 

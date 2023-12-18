@@ -6,7 +6,7 @@ Scope of the DEI.md File
 
 Our project prioritizes and reflects on DEI through a regular review of project policies and performance. This reflection is documented in the following DEI.md file based on specific [CHAOSS project](https://chaoss.community) DEI metrics.
 
-### [Project *REMOVE ME* Access](https://chaoss.community/?p=4953)
+### [Project (*REMOVE ME*) Access](https://chaoss.community/?p=4953)
 
 Project access is addressed in our project through various efforts. Through these efforts, we aim to support access for all. Specific efforts in our project include:
 
